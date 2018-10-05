@@ -13,3 +13,9 @@ http://www.fast.ai/
 https://pytorch.org/
 
 http://scikit-learn.org/stable/
+
+## Run the code
+to run the ULMFiT.py, on your terminal run the following:
+```
+python ULMFiT.py
+```
