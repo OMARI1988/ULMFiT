@@ -4,7 +4,7 @@ ULMFiT.py is an implementation of the Universal Language Model Fine-Tuning algor
 ## Requirements
 You will need to install conda on your system. Along with fastai, pytorch and sklearn libraries.
 
-Please refer to the following repos/websites for help
+Please refer to the following websites for help
 
 https://conda.io/docs/
 
