@@ -15,7 +15,7 @@ https://pytorch.org/
 http://scikit-learn.org/stable/
 
 ## Run the code
-to run the ULMFiT.py, on your terminal run the following:
+to run the ULMFiT.py, first source your appropriate conda env, then run the following:
 ```
 python ULMFiT.py
 ```
